@@ -690,8 +690,7 @@
                                       </Sequence>
                                     </ActivityAction>
                                   </ui:ForEachRow.Body>
-                                </ui:ForEachRow>
-                                <uix:NClick ClickType="Single" DisplayName="Click 'Categories'" sap:VirtualizedContainerService.HintSize="580,166" sap2010:WorkflowViewState.IdRef="NClick_37" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="1a6c7f0f-9731-43fe-a24c-9c073c582120" Version="V3">                                
+                                </ui:ForEachRow>                       
                                 <ui:ReadRange Range="{x:Null}" AddHeaders="True" DataTable="[dbDevice]" DisplayName="Reading Device Info from Excel" sap:VirtualizedContainerService.HintSize="338,97" sap2010:WorkflowViewState.IdRef="ReadRange_5" SheetName="Device" WorkbookPath="Connected Office Test Data.xlsx" />
                                 <uix:NClick ClickType="Single" DisplayName="Click 'Devices'" sap:VirtualizedContainerService.HintSize="338,166" sap2010:WorkflowViewState.IdRef="NClick_40" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="1a6c7f0f-9731-43fe-a24c-9c073c582120" Version="V3">
                                   <uix:NClick.Target>
