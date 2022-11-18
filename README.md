@@ -1,7 +1,5 @@
-# CMPG-323-Project-4---35551178
-All about Testing and RPA
+# How the report should be used by users
 
-How it is used \
 ## Login
 ![Screenshot 2022-11-18 143832](https://user-images.githubusercontent.com/80751804/202707903-2662b548-dda8-4ab0-89f4-bd079ed86b5a.png)
 ![Screenshot 2022-09-28 232432](https://user-images.githubusercontent.com/80751804/202712966-862b805f-bd66-4359-a529-d8117b82119e.png)
