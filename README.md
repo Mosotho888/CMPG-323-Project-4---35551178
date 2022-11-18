@@ -33,6 +33,6 @@ How it is used \
 ## Edit Zone
 ![Screenshot 2022-11-18 150651](https://user-images.githubusercontent.com/80751804/202712221-5531769a-bb2f-4974-a0b3-76ab4bd60071.png)
 ![Screenshot 2022-11-18 150753](https://user-images.githubusercontent.com/80751804/202712399-0b48f0ca-846b-4d38-ab2c-74f3f3ce18e9.png)
-![Screenshot 2022-11-18 150906](https://user-images.githubusercontent.com/80751804/202712601-348cd6d6-aa57-4aab-82f5-c58ca777d97f.png)
 ## Delete Zone
+![Screenshot 2022-11-18 150906](https://user-images.githubusercontent.com/80751804/202712601-348cd6d6-aa57-4aab-82f5-c58ca777d97f.png)
 ![Screenshot 2022-09-28 233547](https://user-images.githubusercontent.com/80751804/202712667-8d9f1a8c-5380-4fce-b113-59df46666629.png)
