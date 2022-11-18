@@ -2,12 +2,18 @@
 All about Testing and RPA
 
 How it is used
+##Login
 ![Screenshot 2022-11-18 143832](https://user-images.githubusercontent.com/80751804/202707903-2662b548-dda8-4ab0-89f4-bd079ed86b5a.png)
+![Screenshot 2022-09-28 232432](https://user-images.githubusercontent.com/80751804/202712966-862b805f-bd66-4359-a529-d8117b82119e.png)
+## Creating Zone, Category and Device \
+### Zone
 ![Screenshot 2022-09-29 121647](https://user-images.githubusercontent.com/80751804/202708161-aa1271af-97cb-4d9c-9e0a-882555b1ab4f.png)
 ![Screenshot 2022-11-18 144708](https://user-images.githubusercontent.com/80751804/202708453-c33a3a87-d608-4db8-b73b-8fa5e65c29d0.png)
 ![Screenshot 2022-09-28 233308](https://user-images.githubusercontent.com/80751804/202708560-859b4457-a85a-45b8-80fc-e30918a7f73d.png)
+### Category
 ![Screenshot 2022-11-18 145050](https://user-images.githubusercontent.com/80751804/202709264-7d931730-3971-4744-be31-e79cc0b043b0.png)
 ![Screenshot 2022-11-18 145206](https://user-images.githubusercontent.com/80751804/202709530-03324957-1428-4190-af8d-03041f26d3e3.png)
+### Device
 ![Screenshot 2022-09-29 001243](https://user-images.githubusercontent.com/80751804/202709596-c42d872a-92fe-4809-8312-a683379ae86d.png)
 ![Screenshot 2022-11-18 145419](https://user-images.githubusercontent.com/80751804/202709921-aa0eaa67-bca5-477f-a6c2-96ce38358463.png)
 ![Screenshot 2022-11-18 145530](https://user-images.githubusercontent.com/80751804/202710131-734cf6d8-78cb-414d-ba6e-b41055bbab0e.png)
