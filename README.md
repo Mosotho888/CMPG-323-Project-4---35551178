@@ -2,7 +2,7 @@
 All about Testing and RPA
 
 How it is used \
-##Login
+## Login
 ![Screenshot 2022-11-18 143832](https://user-images.githubusercontent.com/80751804/202707903-2662b548-dda8-4ab0-89f4-bd079ed86b5a.png)
 ![Screenshot 2022-09-28 232432](https://user-images.githubusercontent.com/80751804/202712966-862b805f-bd66-4359-a529-d8117b82119e.png)
 ## Creating Zone, Category and Device
@@ -18,7 +18,9 @@ How it is used \
 ![Screenshot 2022-11-18 145419](https://user-images.githubusercontent.com/80751804/202709921-aa0eaa67-bca5-477f-a6c2-96ce38358463.png)
 ![Screenshot 2022-11-18 145530](https://user-images.githubusercontent.com/80751804/202710131-734cf6d8-78cb-414d-ba6e-b41055bbab0e.png)
 ![Screenshot 2022-09-29 002432](https://user-images.githubusercontent.com/80751804/202710343-d7815af0-a22d-4b15-9c8c-bbf413285ce2.png)
+### Edit Device
 ![Screenshot 2022-11-18 145822](https://user-images.githubusercontent.com/80751804/202710639-20b0bf13-139a-448c-b6d8-3476712516c1.png)
+### Delete Device
 ![Screenshot 2022-11-18 145926](https://user-images.githubusercontent.com/80751804/202710842-dfdd6935-b5dc-43fa-ba20-fbb26254d115.png)
 ![Screenshot 2022-09-29 001808](https://user-images.githubusercontent.com/80751804/202711126-c1a3fcd1-cb0c-40fa-a7c6-5f8285b05952.png)
 ![Screenshot 2022-11-18 150210](https://user-images.githubusercontent.com/80751804/202711368-659893dc-55a2-42e3-a1e4-0f70ff9a876f.png)
